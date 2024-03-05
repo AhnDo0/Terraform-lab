@@ -12,5 +12,6 @@
 - 작업 내용들을 파일 레이아웃(디렉토리)를 통해 서로 격리함
 - service파트의 webserver & DB, tfstate파일 저장을 위한 global파트의 s3를 디렉토리로 구분하여 구축
 - 디렉토리 구조
+
 ![image](https://github.com/AhnDo0/Terraform-test/assets/51705063/a60879f9-a079-4958-b3d7-c055bc39098b)
 
